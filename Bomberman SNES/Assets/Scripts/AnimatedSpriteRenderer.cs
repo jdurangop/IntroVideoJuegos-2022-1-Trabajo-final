@@ -26,7 +26,7 @@ public class AnimatedSpriteRender : MonoBehaviour
 
    private void OnDisable()
    {
-      _spriteRenderer.enabled = false;
+      _spriteRenderer.enabled = false; 
    }
 
    private void Start()
