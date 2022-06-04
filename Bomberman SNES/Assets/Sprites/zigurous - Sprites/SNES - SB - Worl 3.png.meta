@@ -1,0 +1,2448 @@
+fileFormatVersion: 2
+guid: c578909e3c931294b871ea05617f3279
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2002069429443734248
+    second: SNES - SB - Worl 3_0
+  - first:
+      213: 8983743226177564916
+    second: SNES - SB - Worl 3_1
+  - first:
+      213: -476283714352439932
+    second: SNES - SB - Worl 3_2
+  - first:
+      213: 6024992731459276896
+    second: SNES - SB - Worl 3_3
+  - first:
+      213: -4940022255904658291
+    second: SNES - SB - Worl 3_4
+  - first:
+      213: -651929674451412286
+    second: SNES - SB - Worl 3_5
+  - first:
+      213: -9085489709348153256
+    second: SNES - SB - Worl 3_6
+  - first:
+      213: -3494330934547689574
+    second: SNES - SB - Worl 3_7
+  - first:
+      213: -3546847121503989177
+    second: SNES - SB - Worl 3_8
+  - first:
+      213: -1616073088507772448
+    second: SNES - SB - Worl 3_9
+  - first:
+      213: 7270369654115332354
+    second: SNES - SB - Worl 3_10
+  - first:
+      213: 8471930128503579216
+    second: SNES - SB - Worl 3_11
+  - first:
+      213: -6268813429783388432
+    second: SNES - SB - Worl 3_12
+  - first:
+      213: 8646470101041716013
+    second: SNES - SB - Worl 3_13
+  - first:
+      213: -422368492984787566
+    second: SNES - SB - Worl 3_14
+  - first:
+      213: 4492984484175506744
+    second: SNES - SB - Worl 3_15
+  - first:
+      213: -2759776835820708805
+    second: SNES - SB - Worl 3_16
+  - first:
+      213: -7721583949216386796
+    second: SNES - SB - Worl 3_17
+  - first:
+      213: 9214627389018100178
+    second: SNES - SB - Worl 3_18
+  - first:
+      213: -7195423246760623632
+    second: SNES - SB - Worl 3_19
+  - first:
+      213: -8087307067594271434
+    second: SNES - SB - Worl 3_20
+  - first:
+      213: 1315618803753187867
+    second: SNES - SB - Worl 3_21
+  - first:
+      213: -9037266111956297777
+    second: SNES - SB - Worl 3_22
+  - first:
+      213: 524750868743795139
+    second: SNES - SB - Worl 3_23
+  - first:
+      213: 292701529833607374
+    second: SNES - SB - Worl 3_24
+  - first:
+      213: -5954457450893132678
+    second: SNES - SB - Worl 3_25
+  - first:
+      213: 7696596185222834235
+    second: SNES - SB - Worl 3_26
+  - first:
+      213: -4715419035483179756
+    second: SNES - SB - Worl 3_27
+  - first:
+      213: -7277623241317079632
+    second: SNES - SB - Worl 3_28
+  - first:
+      213: 4486721080960774137
+    second: SNES - SB - Worl 3_29
+  - first:
+      213: -854619867673689102
+    second: SNES - SB - Worl 3_30
+  - first:
+      213: -3416341533360726128
+    second: SNES - SB - Worl 3_31
+  - first:
+      213: -2355893329708463644
+    second: SNES - SB - Worl 3_32
+  - first:
+      213: -7311191964700181351
+    second: SNES - SB - Worl 3_33
+  - first:
+      213: -6695871387207779225
+    second: SNES - SB - Worl 3_34
+  - first:
+      213: -2225180069043159905
+    second: SNES - SB - Worl 3_35
+  - first:
+      213: 1277443569723102978
+    second: SNES - SB - Worl 3_36
+  - first:
+      213: -1644550605604063758
+    second: topo_walk_01
+  - first:
+      213: -1892167858703004305
+    second: topo_walk_02
+  - first:
+      213: 1429691437845534128
+    second: topo_walk_03
+  - first:
+      213: 6781366244488752759
+    second: topo_walk_07
+  - first:
+      213: -1110421392316303135
+    second: topo_walk_08
+  - first:
+      213: -1618482192156806853
+    second: topo_walk_09
+  - first:
+      213: 6306397424702686401
+    second: topo_walk_04
+  - first:
+      213: -2971220503503045785
+    second: topo_walk_05
+  - first:
+      213: 9147983985631096610
+    second: topo_walk_06
+  - first:
+      213: -1038363820211270916
+    second: SNES - SB - Worl 3_46
+  - first:
+      213: 8257754050863472417
+    second: SNES - SB - Worl 3_47
+  - first:
+      213: -6349738930304138691
+    second: SNES - SB - Worl 3_48
+  - first:
+      213: 2428910307130982173
+    second: SNES - SB - Worl 3_49
+  - first:
+      213: 4373433087621693699
+    second: SNES - SB - Worl 3_50
+  - first:
+      213: -650807107157180032
+    second: SNES - SB - Worl 3_51
+  - first:
+      213: -7114305730324503583
+    second: SNES - SB - Worl 3_52
+  - first:
+      213: -658633578267135403
+    second: SNES - SB - Worl 3_53
+  - first:
+      213: 5166764921775628654
+    second: SNES - SB - Worl 3_54
+  - first:
+      213: 1668130150535880287
+    second: SNES - SB - Worl 3_55
+  - first:
+      213: -4681609351722431155
+    second: SNES - SB - Worl 3_56
+  - first:
+      213: 7609210924932424949
+    second: SNES - SB - Worl 3_57
+  - first:
+      213: 2037287259149161661
+    second: SNES - SB - Worl 3_58
+  - first:
+      213: -1198606656673170560
+    second: SNES - SB - Worl 3_59
+  - first:
+      213: -3413131582539319735
+    second: SNES - SB - Worl 3_60
+  - first:
+      213: -1448692632292040495
+    second: SNES - SB - Worl 3_61
+  - first:
+      213: 3877951218011703741
+    second: SNES - SB - Worl 3_62
+  - first:
+      213: 189679806342180085
+    second: SNES - SB - Worl 3_63
+  - first:
+      213: 5085782988560469612
+    second: SNES - SB - Worl 3_64
+  - first:
+      213: -8326152584655482401
+    second: SNES - SB - Worl 3_65
+  - first:
+      213: 5736239799780352929
+    second: SNES - SB - Worl 3_66
+  - first:
+      213: 4292177627930237304
+    second: SNES - SB - Worl 3_67
+  - first:
+      213: -467401357394837834
+    second: SNES - SB - Worl 3_68
+  - first:
+      213: -2140171236330877162
+    second: SNES - SB - Worl 3_69
+  - first:
+      213: 1553631612862299395
+    second: SNES - SB - Worl 3_70
+  - first:
+      213: 5526514719117991000
+    second: rocket_walk_01
+  - first:
+      213: 2555918174466581726
+    second: rocket_walk_02
+  - first:
+      213: -3039607904916983415
+    second: rocket_walk_05
+  - first:
+      213: -6733504515626485783
+    second: rocket_walk_06
+  - first:
+      213: 1652323722743320716
+    second: rocket_walk_03
+  - first:
+      213: 4762306970707635927
+    second: rocket_walk_04
+  - first:
+      213: 780494076845630380
+    second: SNES - SB - Worl 3_77
+  - first:
+      213: 3814930603218295491
+    second: SNES - SB - Worl 3_78
+  - first:
+      213: 4262770859891991514
+    second: SNES - SB - Worl 3_79
+  - first:
+      213: 1853000502506685148
+    second: SNES - SB - Worl 3_80
+  - first:
+      213: -4046353762873715943
+    second: SNES - SB - Worl 3_81
+  - first:
+      213: 6331522793223895372
+    second: SNES - SB - Worl 3_82
+  - first:
+      213: 3536983133734856570
+    second: SNES - SB - Worl 3_83
+  - first:
+      213: -4031583285104966424
+    second: SNES - SB - Worl 3_84
+  - first:
+      213: 6660149661373070797
+    second: SNES - SB - Worl 3_85
+  - first:
+      213: 4549312194741657008
+    second: SNES - SB - Worl 3_86
+  - first:
+      213: -8896582107481293938
+    second: SNES - SB - Worl 3_87
+  - first:
+      213: -8311806227477250265
+    second: SNES - SB - Worl 3_88
+  - first:
+      213: -1986369425491239918
+    second: SNES - SB - Worl 3_89
+  - first:
+      213: 6197500819984684159
+    second: SNES - SB - Worl 3_90
+  - first:
+      213: -7283895085616310543
+    second: SNES - SB - Worl 3_91
+  - first:
+      213: -880621380450549853
+    second: SNES - SB - Worl 3_92
+  - first:
+      213: 7964808895431211292
+    second: SNES - SB - Worl 3_93
+  - first:
+      213: -1928597981276967244
+    second: SNES - SB - Worl 3_94
+  - first:
+      213: 3944414054062985579
+    second: SNES - SB - Worl 3_95
+  - first:
+      213: -4302475763580269342
+    second: SNES - SB - Worl 3_96
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SNES - SB - Worl 3_0
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 1018
+        width: 34
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eaa9a5e987c8cb10800000000000000
+      internalID: 2002069429443734248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - SB - Worl 3_1
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 1018
+        width: 37
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f0b2a5cddaacac70800000000000000
+      internalID: 8983743226177564916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - SB - Worl 3_2
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 1018
+        width: 32
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d18b93c76e369f0800000000000000
+      internalID: -476283714352439932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - SB - Worl 3_3
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1017
+        width: 32
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 060d0fca7f21d9350800000000000000
+      internalID: 6024992731459276896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - SB - Worl 3_4
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 1017
+        width: 34
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c674e7ee3817bb0800000000000000
+      internalID: -4940022255904658291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - SB - Worl 3_5
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1018
+        width: 32
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca99c74a61e3f6f0800000000000000
+      internalID: -651929674451412286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - SB - Worl 3_6
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 1018
+        width: 34
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85816df0f3bd9e180800000000000000
+      internalID: -9085489709348153256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - SB - Worl 3_7
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1018
+        width: 35
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f40ae5784a18fc0800000000000000
+      internalID: -3494330934547689574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - SB - Worl 3_8
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 1018
+        width: 32
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7425322c55117cec0800000000000000
+      internalID: -3546847121503989177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - SB - Worl 3_9
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 1017
+        width: 34
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e10d6c961e8299e0800000000000000
+      internalID: -1616073088507772448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - SB - Worl 3_10
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 1018
+        width: 35
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201f25b2eaa85e460800000000000000
+      internalID: 7270369654115332354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - SB - Worl 3_11
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 1016
+        width: 38
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052a26fc097529570800000000000000
+      internalID: 8471930128503579216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - SB - Worl 3_12
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 1016
+        width: 34
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe10923663b009a0800000000000000
+      internalID: -6268813429783388432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - SB - Worl 3_13
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 1017
+        width: 34
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b90a5febe6ef770800000000000000
+      internalID: 8646470101041716013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - SB - Worl 3_14
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 1015
+        width: 73
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d135be712732af0800000000000000
+      internalID: -422368492984787566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - SB - Worl 3_15
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 1015
+        width: 76
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d6f9065994a5e30800000000000000
+      internalID: 4492984484175506744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - SB - Worl 3_16
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 1017
+        width: 34
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c1e89f69d43b9d0800000000000000
+      internalID: -2759776835820708805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - SB - Worl 3_17
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 1015
+        width: 34
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41179931f4c67d490800000000000000
+      internalID: -7721583949216386796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - SB - Worl 3_18
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 1017
+        width: 38
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d152040acee0ef70800000000000000
+      internalID: 9214627389018100178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - SB - Worl 3_19
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 1015
+        width: 36
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1ce381ea8b42c90800000000000000
+      internalID: -7195423246760623632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - SB - Worl 3_20
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 946
+        width: 41
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6359986021d14cf80800000000000000
+      internalID: -8087307067594271434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - SB - Worl 3_21
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 946
+        width: 41
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a7881e454024210800000000000000
+      internalID: 1315618803753187867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - SB - Worl 3_22
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 946
+        width: 42
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc75b284a5e259280800000000000000
+      internalID: -9037266111956297777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - SB - Worl 3_23
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 946
+        width: 41
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c13d07822a484700800000000000000
+      internalID: 524750868743795139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - SB - Worl 3_24
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 946
+        width: 41
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec012f69d72ef0400800000000000000
+      internalID: 292701529833607374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - SB - Worl 3_25
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 946
+        width: 42
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c36591f748d5da0800000000000000
+      internalID: -5954457450893132678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - SB - Worl 3_26
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 946
+        width: 41
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3865dfb37dcfca60800000000000000
+      internalID: 7696596185222834235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - SB - Worl 3_27
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 946
+        width: 42
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415f8eede577f8eb0800000000000000
+      internalID: -4715419035483179756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - SB - Worl 3_28
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 883
+        width: 39
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b52b247830b00b90800000000000000
+      internalID: -7277623241317079632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - SB - Worl 3_29
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 883
+        width: 87
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff6cec2d09044e30800000000000000
+      internalID: 4486721080960774137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - SB - Worl 3_30
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 885
+        width: 44
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3815122c7c324f0800000000000000
+      internalID: -854619867673689102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - SB - Worl 3_31
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 883
+        width: 41
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09fde98d977b690d0800000000000000
+      internalID: -3416341533360726128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - SB - Worl 3_32
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 885
+        width: 41
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e9c30aaf7f2e4fd0800000000000000
+      internalID: -2355893329708463644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - SB - Worl 3_33
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 885
+        width: 42
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99cfa5bf4ad698a90800000000000000
+      internalID: -7311191964700181351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - SB - Worl 3_34
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 883
+        width: 338
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76c37c7137c7313a0800000000000000
+      internalID: -6695871387207779225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - SB - Worl 3_35
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 885
+        width: 42
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c376744829e11e0800000000000000
+      internalID: -2225180069043159905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - SB - Worl 3_36
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 885
+        width: 83
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207d3f198246ab110800000000000000
+      internalID: 1277443569723102978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topo_walk_01
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 810
+        width: 42
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5f0d9ffe16d29e0800000000000000
+      internalID: -1644550605604063758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topo_walk_02
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 811
+        width: 41
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d889e8b5badb5e0800000000000000
+      internalID: -1892167858703004305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topo_walk_03
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 811
+        width: 42
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b55333b9c847d310800000000000000
+      internalID: 1429691437845534128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topo_walk_07
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 811
+        width: 39
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ea39e8ba04c1e50800000000000000
+      internalID: 6781366244488752759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topo_walk_08
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 810
+        width: 39
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e8fdff70adf690f0800000000000000
+      internalID: -1110421392316303135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topo_walk_09
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 811
+        width: 42
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b31b235750ff989e0800000000000000
+      internalID: -1618482192156806853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topo_walk_04
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 811
+        width: 43
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c487d78b03d48750800000000000000
+      internalID: 6306397424702686401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topo_walk_05
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 811
+        width: 42
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76bf75bb1ba14c6d0800000000000000
+      internalID: -2971220503503045785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topo_walk_06
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 811
+        width: 41
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22fe08287fa24fe70800000000000000
+      internalID: 9147983985631096610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - SB - Worl 3_46
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 730
+        width: 44
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa80b46b9df691f0800000000000000
+      internalID: -1038363820211270916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - SB - Worl 3_47
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 730
+        width: 44
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f924cce8f699270800000000000000
+      internalID: 8257754050863472417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - SB - Worl 3_48
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 730
+        width: 88
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d32c0c2d51231e7a0800000000000000
+      internalID: -6349738930304138691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - SB - Worl 3_49
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 730
+        width: 43
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1fb3df2e0935b120800000000000000
+      internalID: 2428910307130982173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - SB - Worl 3_50
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 730
+        width: 44
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30181a4c83e81bc30800000000000000
+      internalID: 4373433087621693699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - SB - Worl 3_51
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 730
+        width: 44
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081c898526ed7f6f0800000000000000
+      internalID: -650807107157180032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - SB - Worl 3_52
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 730
+        width: 43
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e36b78a1a8e44d90800000000000000
+      internalID: -7114305730324503583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - SB - Worl 3_53
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 657
+        width: 42
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5523e3a00401cd6f0800000000000000
+      internalID: -658633578267135403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - SB - Worl 3_54
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 657
+        width: 41
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e61a268525904b740800000000000000
+      internalID: 5166764921775628654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - SB - Worl 3_55
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 677
+        width: 4
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e5fc5a883662710800000000000000
+      internalID: 1668130150535880287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - SB - Worl 3_56
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 657
+        width: 42
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d007d4915970fb0800000000000000
+      internalID: -4681609351722431155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - SB - Worl 3_57
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 657
+        width: 41
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f46e995509599960800000000000000
+      internalID: 7609210924932424949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - SB - Worl 3_58
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 657
+        width: 88
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4d30bd7f5e54c10800000000000000
+      internalID: 2037287259149161661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - SB - Worl 3_59
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 657
+        width: 54
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08bb393a891bd5fe0800000000000000
+      internalID: -1198606656673170560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - SB - Worl 3_60
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 657
+        width: 56
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 946b313c8ee12a0d0800000000000000
+      internalID: -3413131582539319735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - SB - Worl 3_61
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 657
+        width: 56
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d0e187f9b535ebe0800000000000000
+      internalID: -1448692632292040495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - SB - Worl 3_62
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 657
+        width: 172
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db981e5261041d530800000000000000
+      internalID: 3877951218011703741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - SB - Worl 3_63
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 657
+        width: 42
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc271667c0e1a200800000000000000
+      internalID: 189679806342180085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - SB - Worl 3_64
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 657
+        width: 41
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e0fd5bea4549640800000000000000
+      internalID: 5085782988560469612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - SB - Worl 3_65
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 657
+        width: 42
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd1d8ed8650937c80800000000000000
+      internalID: -8326152584655482401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - SB - Worl 3_66
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 605
+        width: 39
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3ad5cb4b73b9f40800000000000000
+      internalID: 5736239799780352929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - SB - Worl 3_67
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 605
+        width: 39
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87919a9cfc0e09b30800000000000000
+      internalID: 4292177627930237304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - SB - Worl 3_68
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 605
+        width: 38
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bef1fc11f47389f0800000000000000
+      internalID: -467401357394837834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - SB - Worl 3_69
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 431
+        width: 186
+        height: 163
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f4df389959c42e0800000000000000
+      internalID: -2140171236330877162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - SB - Worl 3_70
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 431
+        width: 8
+        height: 162
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d797c68bb9f8510800000000000000
+      internalID: 1553631612862299395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocket_walk_01
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 515
+        width: 52
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85cdef63bdf12bc40800000000000000
+      internalID: 5526514719117991000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocket_walk_02
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 515
+        width: 51
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed4ab00b902787320800000000000000
+      internalID: 2555918174466581726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocket_walk_05
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 517
+        width: 69
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98134fa07b421d5d0800000000000000
+      internalID: -3039607904916983415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocket_walk_06
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 517
+        width: 80
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e738949159cd82a0800000000000000
+      internalID: -6733504515626485783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocket_walk_03
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 517
+        width: 51
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c801114ebab3ee610800000000000000
+      internalID: 1652323722743320716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocket_walk_04
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 517
+        width: 51
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de256445fc171240800000000000000
+      internalID: 4762306970707635927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - SB - Worl 3_77
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 507
+        width: 44
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca32ea74a3fd4da00800000000000000
+      internalID: 780494076845630380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - SB - Worl 3_78
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 505
+        width: 61
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cad797db2b51f430800000000000000
+      internalID: 3814930603218295491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - SB - Worl 3_79
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 433
+        width: 36
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3afbe0387682b30800000000000000
+      internalID: 4262770859891991514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - SB - Worl 3_80
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 433
+        width: 46
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd20880b32e27b910800000000000000
+      internalID: 1853000502506685148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - SB - Worl 3_81
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 433
+        width: 41
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913d850f0b678d7c0800000000000000
+      internalID: -4046353762873715943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - SB - Worl 3_82
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 431
+        width: 89
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4936614f661ed750800000000000000
+      internalID: 6331522793223895372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - SB - Worl 3_83
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 431
+        width: 91
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7760de9b63e51130800000000000000
+      internalID: 3536983133734856570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - SB - Worl 3_84
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 433
+        width: 44
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e48ae8cc50fc08c0800000000000000
+      internalID: -4031583285104966424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - SB - Worl 3_85
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 431
+        width: 44
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd741d74da9d6c50800000000000000
+      internalID: 6660149661373070797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - SB - Worl 3_86
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 432
+        width: 44
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bdddeb7657622f30800000000000000
+      internalID: 4549312194741657008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - SB - Worl 3_87
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 431
+        width: 43
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b3b7895bdf88480800000000000000
+      internalID: -8896582107481293938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - SB - Worl 3_88
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 431
+        width: 44
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72fb651264886ac80800000000000000
+      internalID: -8311806227477250265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - SB - Worl 3_89
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 433
+        width: 39
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21cd5e0288ffe64e0800000000000000
+      internalID: -1986369425491239918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - SB - Worl 3_90
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 433
+        width: 39
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f741166f822f10650800000000000000
+      internalID: 6197500819984684159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - SB - Worl 3_91
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 259
+        width: 200
+        height: 164
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f650a8e2086aea90800000000000000
+      internalID: -7283895085616310543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - SB - Worl 3_92
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 262
+        width: 34
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af71ac258767c3f0800000000000000
+      internalID: -880621380450549853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - SB - Worl 3_93
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 259
+        width: 91
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c197c04bd7fa88e60800000000000000
+      internalID: 7964808895431211292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - SB - Worl 3_94
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 261
+        width: 83
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be637baa5e3c35e0800000000000000
+      internalID: -1928597981276967244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - SB - Worl 3_95
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 227
+        width: 179
+        height: 195
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b619b7b0faf5db630800000000000000
+      internalID: 3944414054062985579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - SB - Worl 3_96
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 153
+        width: 238
+        height: 269
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec0219a6198a44c0800000000000000
+      internalID: -4302475763580269342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 9a0aab7cbc53a4b4bb2df0ef5e6e2bf6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
