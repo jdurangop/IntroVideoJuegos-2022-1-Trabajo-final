@@ -5,17 +5,27 @@ using UnityEngine;
 
 public class BombController : MonoBehaviour
 {
-    // Calls the properties of the prefab we have created of the bomb
+    [Header("Bomb")]
+    // Calls the properties of the prefab we have created for the bomb
     public GameObject bombPrefab;
     // Key that we have to press to detonate the bomb
     public KeyCode inputKey = KeyCode.Space;
     // How long does it take a bomb to explode?
     public float bombExplosionTime = 3f;
     // Quantity of bombs the player can deploy
-    public int bombAmount = 1;
+    public int bombAmount = 1;  // POWER UP
     // Remaining/Available bombs
     private int bombsRemaining;
-
+    
+    [Header("Explosion")]
+    // Calls the properties of the prefab we have created for the explosion
+    public Explosion explosionPrefab;
+    // Duration time of the explosion
+    public float explosionDuration = 1f;
+    // Radius of the explosion
+    public int explosionRadius = 1; // POWER UP
+    
+    
     private void OnEnable()
     {
         // This sets the remaining bombs to the actual amount of bombs the player has for every
@@ -49,6 +59,21 @@ public class BombController : MonoBehaviour
         // Cooldown
         yield return new WaitForSeconds(bombExplosionTime);
         
+        // Instantiating the explosion game object at the position of the bomb
+        position = bomb.transform.position;
+        position.x = Mathf.Round(position.x);
+        position.y = Mathf.Round(position.y);
+
+        Explosion explosion = Instantiate(explosionPrefab, position, Quaternion.identity);
+        explosion.SetActiveRenderer(explosion.start);
+        // Destroying the explosion game object after a certain amount of time
+        explosion.DestroyAfter(explosionDuration);
+        
+        // Calling the Explode function
+        Explode(position, Vector2.up, explosionRadius);
+        Explode(position, Vector2.down, explosionRadius);
+        Explode(position, Vector2.left, explosionRadius);
+        Explode(position, Vector2.right, explosionRadius);
         // Destroy the GameObject after the explosion
         Destroy(bomb);
         
@@ -64,5 +89,24 @@ public class BombController : MonoBehaviour
         {
             other.isTrigger = false;
         }
+    }
+    
+    // This function help us to make the explosion to take more than one tile and in a radius
+    private void Explode(Vector2 position, Vector2 direction, int length)
+    {
+        // Exit condition
+        if (length <= 0)
+        {
+            return;
+        }
+
+        position += direction;
+        Explosion explosion = Instantiate(explosionPrefab, position, Quaternion.identity);
+        explosion.SetActiveRenderer(length > 1 ? explosion.middle : explosion.end);
+        explosion.SetDirection(direction);
+        explosion.DestroyAfter(explosionDuration);
+        
+        // The step when the function becomes recursive
+        Explode(position, direction, length - 1);
     }
 }
