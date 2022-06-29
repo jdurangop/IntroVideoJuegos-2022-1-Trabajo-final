@@ -4312,12 +4312,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 519eb68d69a3de84c9debb77a612db2e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  idleSprite: {fileID: 306372094466807954, guid: 131fd62ecd3e3d24699ac2e4e38ee3b7, type: 3}
-  animationSprites:
-  - {fileID: 306372094466807954, guid: 131fd62ecd3e3d24699ac2e4e38ee3b7, type: 3}
-  - {fileID: -9078394528372511491, guid: 131fd62ecd3e3d24699ac2e4e38ee3b7, type: 3}
-  - {fileID: -1174024930709599545, guid: 131fd62ecd3e3d24699ac2e4e38ee3b7, type: 3}
-  - {fileID: -3763208851180502378, guid: 131fd62ecd3e3d24699ac2e4e38ee3b7, type: 3}
+  idleSprite: {fileID: 0}
+  animationSprites: []
   animationTime: 0.25
   loop: 1
   idle: 1
@@ -5103,7 +5099,7 @@ Camera:
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 1
-  m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
+  m_BackGroundColor: {r: 0, g: 0, b: 0, a: 0}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
   m_FOVAxisMode: 0
@@ -5124,7 +5120,7 @@ Camera:
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
-    m_Bits: 4294967295
+    m_Bits: 2147483647
   m_RenderingPath: -1
   m_TargetTexture: {fileID: 0}
   m_TargetDisplay: 0
