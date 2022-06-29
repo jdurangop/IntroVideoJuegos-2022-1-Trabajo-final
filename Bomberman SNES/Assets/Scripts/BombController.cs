@@ -109,4 +109,11 @@ public class BombController : MonoBehaviour
         // The step when the function becomes recursive
         Explode(position, direction, length - 1);
     }
+    
+    // This function adds the extra bomb once the player has picked the item up
+    public void AddBomb()
+    {
+        bombAmount++;
+        bombsRemaining++;
+    }
 }
