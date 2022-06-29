@@ -315,6 +315,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -2440,6 +2441,104 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Rayman_walk_0: -4069046271349474616
+      SNES - Super Bomberman - World 1 Enemies and Items_41: -1539277352639161377
+      SNES - Super Bomberman - World 1 Enemies and Items_18: 245751031669355198
+      SNES - Super Bomberman - World 1 Enemies and Items_59: 152841921578346436
+      SNES - Super Bomberman - World 1 Enemies and Items_131: 7884463129428181631
+      SNES - Super Bomberman - World 1 Enemies and Items_68: 1257001331935632364
+      SNES - Super Bomberman - World 1 Enemies and Items_64: -2408206258305297623
+      Rayman_walk_04: 5976503756629673652
+      SNES - Super Bomberman - World 1 Enemies and Items_52: 2841589344524128180
+      SNES - Super Bomberman - World 1 Enemies and Items_15: 1230218195223985708
+      SNES - Super Bomberman - World 1 Enemies and Items_70: -2855368095487634686
+      SNES - Super Bomberman - World 1 Enemies and Items_40: -5225413887721459313
+      SNES - Super Bomberman - World 1 Enemies and Items_102: -6364257942361361643
+      SNES - Super Bomberman - World 1 Enemies and Items_110: 7891729675400281121
+      Rayman_walk_: -3610928434895979778
+      SNES - Super Bomberman - World 1 Enemies and Items_55: 3591886129782686195
+      Qbert_walk_10: -6863589021955018125
+      SNES - Super Bomberman - World 1 Enemies and Items_43: -4965986786341824589
+      SNES - Super Bomberman - World 1 Enemies and Items_14: -6036168123673693924
+      Qbert_walk_08: -6445335116188007907
+      SNES - Super Bomberman - World 1 Enemies and Items_66: -2442616133132928068
+      SNES - Super Bomberman - World 1 Enemies and Items_50: 6714157943224085520
+      Qbert_walk_07: 2763423189937002476
+      SNES - Super Bomberman - World 1 Enemies and Items_63: 6252900427549651590
+      SNES - Super Bomberman - World 1 Enemies and Items_12: 7809280258963962554
+      SNES - Super Bomberman - World 1 Enemies and Items_111: 237594631266745304
+      SNES - Super Bomberman - World 1 Enemies and Items_127: 2652603033755052494
+      SNES - Super Bomberman - World 1 Enemies and Items_71: -5792104891477701105
+      SNES - Super Bomberman - World 1 Enemies and Items_103: 5204071517037146244
+      SNES - Super Bomberman - World 1 Enemies and Items_42: -3495953580596290112
+      SNES - Super Bomberman - World 1 Enemies and Items_28: 9217188794048830966
+      SNES - Super Bomberman - World 1 Enemies and Items_37: 3322291245229776735
+      SNES - Super Bomberman - World 1 Enemies and Items_35: -8727289537387436128
+      SNES - Super Bomberman - World 1 Enemies and Items_104: 5621370280270825101
+      SNES - Super Bomberman - World 1 Enemies and Items_16: 4017202247161391794
+      Qbert_walk_02: 7334834537439521219
+      SNES - Super Bomberman - World 1 Enemies and Items_89: -3272562347983881350
+      SNES - Super Bomberman - World 1 Enemies and Items_44: 7919292972428756041
+      Qbert_walk_12: 304075769930333752
+      SNES - Super Bomberman - World 1 Enemies and Items_130: -5571792881214713239
+      Qbert_walk_06: 5207176131342543180
+      Qbert_walk_04: 8356832460484742671
+      Rayman_walk_01: 3120491556308652464
+      SNES - Super Bomberman - World 1 Enemies and Items_62: 1735893210758108096
+      SNES - Super Bomberman - World 1 Enemies and Items_69: 779447154471177852
+      Qbert_walk_03: -4258549410830293366
+      SNES - Super Bomberman - World 1 Enemies and Items_57: 72727157748249729
+      Qbert_walk_11: -2136655976891590807
+      SNES - Super Bomberman - World 1 Enemies and Items_34: -7597727904551346383
+      SNES - Super Bomberman - World 1 Enemies and Items_21: 425236190313225047
+      SNES - Super Bomberman - World 1 Enemies and Items_20: 8049076532713615163
+      SNES - Super Bomberman - World 1 Enemies and Items_30: 2265691302045733960
+      SNES - Super Bomberman - World 1 Enemies and Items_84: 4332052466520143822
+      SNES - Super Bomberman - World 1 Enemies and Items_38: -1746082051676128497
+      SNES - Super Bomberman - World 1 Enemies and Items_105: -8947469796348272803
+      SNES - Super Bomberman - World 1 Enemies and Items_56: 364872024593153936
+      SNES - Super Bomberman - World 1 Enemies and Items_31: -4314394101826381089
+      SNES - Super Bomberman - World 1 Enemies and Items_39: 3390943021013973349
+      SNES - Super Bomberman - World 1 Enemies and Items_112: 186556141171970478
+      SNES - Super Bomberman - World 1 Enemies and Items_36: -5125725515577901562
+      SNES - Super Bomberman - World 1 Enemies and Items_48: -5473335755072035634
+      SNES - Super Bomberman - World 1 Enemies and Items_53: -6842263032862522840
+      SNES - Super Bomberman - World 1 Enemies and Items_51: 7378657225265652521
+      SNES - Super Bomberman - World 1 Enemies and Items_86: 7074902210200629291
+      SNES - Super Bomberman - World 1 Enemies and Items_54: -6241442685206270540
+      Qbert_walk_05: -8336591685098915488
+      SNES - Super Bomberman - World 1 Enemies and Items_87: -3261180199679660101
+      SNES - Super Bomberman - World 1 Enemies and Items_106: -8367211922837785584
+      SNES - Super Bomberman - World 1 Enemies and Items_90: -8626271304292530449
+      SNES - Super Bomberman - World 1 Enemies and Items_91: 4896918385630542669
+      SNES - Super Bomberman - World 1 Enemies and Items_108: 8978539475405279982
+      Qbert_walk_09: 6217606017975419477
+      SNES - Super Bomberman - World 1 Enemies and Items_109: 3150704875410648401
+      SNES - Super Bomberman - World 1 Enemies and Items_85: -4203024449693216030
+      SNES - Super Bomberman - World 1 Enemies and Items_58: -2100556497921548291
+      SNES - Super Bomberman - World 1 Enemies and Items_49: 7366521619216935062
+      SNES - Super Bomberman - World 1 Enemies and Items_60: 5077076088908939817
+      Qbert_walk_01: 7365570211034708924
+      SNES - Super Bomberman - World 1 Enemies and Items_46: -5077920126860587271
+      SNES - Super Bomberman - World 1 Enemies and Items_82: -1879273879504770031
+      SNES - Super Bomberman - World 1 Enemies and Items_83: -7234761030874406498
+      SNES - Super Bomberman - World 1 Enemies and Items_65: 4347127076825596154
+      Rayman_walk_03: -1549960079270936332
+      SNES - Super Bomberman - World 1 Enemies and Items_19: -4825898218963951863
+      SNES - Super Bomberman - World 1 Enemies and Items_47: 7554932887143369358
+      SNES - Super Bomberman - World 1 Enemies and Items_29: -3613458788965802498
+      SNES - Super Bomberman - World 1 Enemies and Items_22: -8137657895423920260
+      SNES - Super Bomberman - World 1 Enemies and Items_61: -3975960814581650819
+      SNES - Super Bomberman - World 1 Enemies and Items_33: 8174009449757271944
+      SNES - Super Bomberman - World 1 Enemies and Items_13: 9076803273650879456
+      SNES - Super Bomberman - World 1 Enemies and Items_88: 7739387077351021801
+      SNES - Super Bomberman - World 1 Enemies and Items_17: 7245104840012257357
+      SNES - Super Bomberman - World 1 Enemies and Items_45: -8262502542921981911
+      SNES - Super Bomberman - World 1 Enemies and Items_107: -8349071511516164764
+      SNES - Super Bomberman - World 1 Enemies and Items_129: -8178799799244738137
+      SNES - Super Bomberman - World 1 Enemies and Items_32: 3272491936086889558
+      SNES - Super Bomberman - World 1 Enemies and Items_67: 5822448774835627959
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
