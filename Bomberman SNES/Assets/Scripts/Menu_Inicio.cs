@@ -6,6 +6,7 @@ internal class Menu_Inicio : MonoBehaviour
     public void Jugar()
     {
         SceneManager.LoadScene("Nivel1");
+        Time.timeScale = 1f;
     }
     
     public void Salir(){
