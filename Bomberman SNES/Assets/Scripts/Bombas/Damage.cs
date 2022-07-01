@@ -11,7 +11,7 @@ public class Damage : MonoBehaviour
             other.isTrigger = false;
         }
         
-        EnemyMovement enemy = other.transform.GetComponent<EnemyMovement>();
+        EnemyManage enemy = other.transform.GetComponent<EnemyManage>();
         if (enemy != null)
         {
             enemy.TakeDamage();
