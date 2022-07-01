@@ -19,11 +19,18 @@ public class Movement : MonoBehaviour
       public AnimatedSprite spriteRendererLeft;
       public AnimatedSprite spriteRendererRight;
       private AnimatedSprite activateSpriteRenderer;
-      
+
+      private void Start()
+      {
+          // Load level
+          DontDestroyOnLoad(gameObject);
+      }
+
       private void Awake()
       {
           _rb = GetComponent<Rigidbody2D>();
           activateSpriteRenderer = spriteRendererDown;
+          
       }
       
       private void Update()
@@ -75,5 +82,15 @@ public class Movement : MonoBehaviour
           activateSpriteRenderer = spriteRenderer;
           activateSpriteRenderer.idle = _dir == Vector2.zero;
 
+      }
+
+      private void OnLevelWasLoaded(int level)
+      {
+          FindStartPos();
+      }
+
+      void FindStartPos()
+      {
+          transform.position = GameObject.FindWithTag("StartPos").transform.position;
       }
 }
