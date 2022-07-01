@@ -3085,6 +3085,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 2
+  health: 3
 --- !u!212 &192480682
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -3423,8 +3424,14 @@ MonoBehaviour:
   bombExplosionTime: 3
   bombAmount: 1
   explosionPrefab: {fileID: 1285005780033770451, guid: 4ac53890622f8264489fe359ac4d7102, type: 3}
+  explosionLayerMask:
+    serializedVersion: 2
+    m_Bits: 264
   explosionDuration: 1
   explosionRadius: 1
+  destructibleTiles: {fileID: 1273554371}
+  destructiblePrefab: {fileID: 5708655966855957609, guid: fab3fd79bd9932946a12f8da0909a559, type: 3}
+  health: 2
 --- !u!1 &392383929
 GameObject:
   m_ObjectHideFlags: 0
@@ -3512,6 +3519,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 2
+  health: 0
 --- !u!212 &392383934
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -4338,6 +4346,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 2
+  health: 0
 --- !u!212 &1012679726
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -4492,6 +4501,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 2
+  health: 0
 --- !u!212 &1034808041
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -4573,7 +4583,7 @@ GameObject:
   - component: {fileID: 1064698735}
   - component: {fileID: 1064698734}
   - component: {fileID: 1064698733}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Walls
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6298,7 +6308,7 @@ GameObject:
   - component: {fileID: 1273554371}
   - component: {fileID: 1273554370}
   - component: {fileID: 1273554372}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Destructibles
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7681,6 +7691,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 2
+  health: 0
 --- !u!212 &1591470133
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -7835,6 +7846,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 2
+  health: 0
 --- !u!212 &1603780177
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -7959,7 +7971,7 @@ Camera:
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
-    m_Bits: 151
+    m_Bits: 479
   m_RenderingPath: -1
   m_TargetTexture: {fileID: 0}
   m_TargetDisplay: 0

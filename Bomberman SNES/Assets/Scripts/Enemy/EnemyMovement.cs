@@ -43,5 +43,21 @@ public class EnemyMovement : MonoBehaviour
         _turn = Random.Range(0, 4);
         _enemyRb.velocity = speed*_directions[_turn];
         //throw new NotImplementedException();
+        
     }
+
+    [SerializeField] private int health = 0;
+
+    public void TakeDamage()
+
+    {
+        health--;
+        if (health < 0)
+        {
+            gameObject.SetActive(false); 
+        }
+    }
+    
+
+    
 }

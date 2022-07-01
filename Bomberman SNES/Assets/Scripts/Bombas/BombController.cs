@@ -97,6 +97,8 @@ public class BombController : MonoBehaviour
         {
             other.isTrigger = false;
         }
+        
+        
     }
     
     // This function help us to make the explosion to take more than one tile and in a radius
@@ -107,13 +109,15 @@ public class BombController : MonoBehaviour
         {
             return;
         }
+        
+        position += direction;
 
         if (Physics2D.OverlapBox(position, Vector2.one / 2f, 0f, explosionLayerMask))
         {
             ClearDestructible(position);
             return;
         }
-        position += direction;
+        
         Explosion explosion = Instantiate(explosionPrefab, position, Quaternion.identity);
         explosion.SetActiveRenderer(length > 1 ? explosion.middle : explosion.end);
         explosion.SetDirection(direction);
@@ -141,4 +145,20 @@ public class BombController : MonoBehaviour
             destructibleTiles.SetTile(cell,null);
         }
     }
+    
+    
+    //Sistema de vida del Bomberman
+    
+    [SerializeField] private int health = 2;
+
+    public void TakeDamage()
+
+    {
+        health--;
+        if (health < 0)
+        {
+            gameObject.SetActive(false); 
+        }
+    }
+    
 }

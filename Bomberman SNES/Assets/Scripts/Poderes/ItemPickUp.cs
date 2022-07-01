@@ -44,4 +44,17 @@ public class ItemPickUp : MonoBehaviour
             OnItemPickUp(other.gameObject);
         }
     }
+    
+    [SerializeField] private int health = 0;
+
+    public void TakeDamage()
+
+    {
+        health--;
+        if (health < 0)
+        {
+            gameObject.SetActive(false); 
+        }
+    }
+    
 }
