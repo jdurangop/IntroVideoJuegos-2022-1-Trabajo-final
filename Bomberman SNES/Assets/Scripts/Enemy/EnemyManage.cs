@@ -37,13 +37,21 @@ public class EnemyManage : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D col)
     {
-        _position = transform.position;
-        _position.x = Mathf.Round(_position.x);
-        _position.y = Mathf.Round(_position.y);
-        transform.position = _position;
-        
-        _turn = Random.Range(0, 4);
-        _enemyRb.velocity = speed*_directions[_turn];
+        Health_system bomberman = col.transform.GetComponent<Health_system>();
+        if(bomberman!=null)
+        {
+            bomberman.TakeDamage();
+        }
+        else
+        {
+            _position = transform.position;
+            _position.x = Mathf.Round(_position.x);
+            _position.y = Mathf.Round(_position.y);
+            transform.position = _position;
+
+            _turn = Random.Range(0, 4);
+            _enemyRb.velocity = speed * _directions[_turn];
+        }
     }
 
     public void TakeDamage()

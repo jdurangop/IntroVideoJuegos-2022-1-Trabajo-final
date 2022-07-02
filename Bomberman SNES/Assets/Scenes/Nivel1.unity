@@ -3500,7 +3500,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   health: 3
   invencible: 0
-  time_invencible: 5
+  time_invencible: 2
 --- !u!1 &392383929
 GameObject:
   m_ObjectHideFlags: 0

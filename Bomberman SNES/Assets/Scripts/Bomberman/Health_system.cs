@@ -7,13 +7,12 @@ public class Health_system : MonoBehaviour
 {
     //Sistema de vida del Bomberman
     
-    [SerializeField] private int health = 2;
+    [SerializeField] private int health = 3;
     public bool invencible = false;
-    public float time_invencible = 3f;
+    public float time_invencible = 2f;
 
 
     public void TakeDamage()
-
     {
         if (!invencible)
         {
