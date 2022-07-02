@@ -3,6 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Tilemaps;
+using UnityEngine.SceneManagement;
 
 public class BombController : MonoBehaviour
 {
@@ -162,6 +163,7 @@ public class BombController : MonoBehaviour
         if (health < 0)
         {
             gameObject.SetActive(false); 
+            SceneManager.LoadScene("Scenes/Game Over");
         }
         else if (health < 1)
         {
