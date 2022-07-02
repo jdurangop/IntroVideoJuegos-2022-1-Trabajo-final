@@ -36,7 +36,7 @@ public class BombController : MonoBehaviour
     public Tilemap destructibleTiles;
     public Destructible destructiblePrefab;
     
-    
+
     private void OnEnable()
     {
         // This sets the remaining bombs to the actual amount of bombs the player has for every

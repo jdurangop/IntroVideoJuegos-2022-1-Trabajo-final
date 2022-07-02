@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class Damage : MonoBehaviour
 {
+
     private void OnTriggerEnter2D(Collider2D other)
     {
         if (other.gameObject.layer == LayerMask.NameToLayer("Bomb"))
@@ -17,18 +18,20 @@ public class Damage : MonoBehaviour
             enemy.TakeDamage();
         }
         
-        BombController bomberman = other.transform.GetComponent<BombController>();
+        Health_system bomberman = other.transform.GetComponent<Health_system>();
         if (bomberman != null)
         {
-            bomberman.TakeDamage();
+             bomberman.TakeDamage();
         }
+               
         
         ItemPickUp powerup = other.transform.GetComponent<ItemPickUp>();
-        if (powerup != null)
+        if (powerup!= null)
         {
             powerup.TakeDamage();
         }
-        
+
     }
+
     
 }
