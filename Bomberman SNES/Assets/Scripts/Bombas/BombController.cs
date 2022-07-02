@@ -35,6 +35,7 @@ public class BombController : MonoBehaviour
     //
     public Tilemap destructibleTiles;
     public Destructible destructiblePrefab;
+    public Tilemap destructibleTiles2;
     
 
     private void OnEnable()
@@ -143,10 +144,21 @@ public class BombController : MonoBehaviour
         Vector3Int cell = destructibleTiles.WorldToCell(position);
         TileBase tile = destructibleTiles.GetTile(cell);
 
-        if (tile != null)
+        if (!(tile is null))
         {
             Instantiate(destructiblePrefab, position, Quaternion.identity);
             destructibleTiles.SetTile(cell,null);
+        }
+        else
+        {
+            cell = destructibleTiles2.WorldToCell(position);
+            tile = destructibleTiles.GetTile(cell);
+            
+            if (!(tile is null))
+            {
+                Instantiate(destructiblePrefab, position, Quaternion.identity);
+                destructibleTiles.SetTile(cell,null);
+            }
         }
     }
     
@@ -159,17 +171,9 @@ public class BombController : MonoBehaviour
 
     {
         health--;
-        if (health < 0)
+        if (health <= 0)
         {
             gameObject.SetActive(false); 
-        }
-        else if (health < 1)
-        {
-            
-        }
-        else if (health < 2)
-        {
-            
         }
     }
     
