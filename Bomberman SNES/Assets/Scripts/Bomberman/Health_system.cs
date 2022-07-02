@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Health_system : MonoBehaviour
 {
@@ -16,12 +17,12 @@ public class Health_system : MonoBehaviour
     {
         if (!invencible)
         {
-            
             StartCoroutine(Inmunity());
             health--;
             if (health <= 0)
             {
-                gameObject.SetActive(false); 
+                gameObject.SetActive(false);
+                SceneManager.LoadScene("Scenes/Game Over");
             }
         }
     }

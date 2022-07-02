@@ -6,9 +6,6 @@ using UnityEngine.Tilemaps;
 
 public class BombController : MonoBehaviour
 {
-    public GameObject[] hearts;
-    [SerializeField] private int health = 2;
-    
     [Header("Bomb")]
     // Calls the properties of the prefab we have created for the bomb
     public GameObject bombPrefab;
@@ -35,9 +32,7 @@ public class BombController : MonoBehaviour
     //
     public Tilemap destructibleTiles;
     public Destructible destructiblePrefab;
-    public Tilemap destructibleTiles2;
     
-
     private void OnEnable()
     {
         // This sets the remaining bombs to the actual amount of bombs the player has for every
@@ -149,32 +144,5 @@ public class BombController : MonoBehaviour
             Instantiate(destructiblePrefab, position, Quaternion.identity);
             destructibleTiles.SetTile(cell,null);
         }
-        else
-        {
-            cell = destructibleTiles2.WorldToCell(position);
-            tile = destructibleTiles.GetTile(cell);
-            
-            if (!(tile is null))
-            {
-                Instantiate(destructiblePrefab, position, Quaternion.identity);
-                destructibleTiles.SetTile(cell,null);
-            }
-        }
     }
-    
-    
-    //Sistema de vida del Bomberman
-    
-   
-
-    public void TakeDamage()
-
-    {
-        health--;
-        if (health <= 0)
-        {
-            gameObject.SetActive(false); 
-        }
-    }
-    
 }
