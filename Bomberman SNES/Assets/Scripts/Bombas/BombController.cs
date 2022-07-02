@@ -6,13 +6,16 @@ using UnityEngine.Tilemaps;
 
 public class BombController : MonoBehaviour
 {
+    public GameObject[] hearts;
+    [SerializeField] private int health = 2;
+    
     [Header("Bomb")]
     // Calls the properties of the prefab we have created for the bomb
     public GameObject bombPrefab;
     // Key that we have to press to detonate the bomb
     public KeyCode inputKey = KeyCode.Space;
     // How long does it take a bomb to explode?
-    public float bombExplosionTime = 3f;
+    public float bombExplosionTime = 2f;
     // Quantity of bombs the player can deploy
     public int bombAmount = 1;  // POWER UP
     // Remaining/Available bombs
@@ -49,6 +52,7 @@ public class BombController : MonoBehaviour
             // Calls the function
             StartCoroutine(PlaceBomb());
         }
+        
     }
     
     // Function for placing a bomb
@@ -149,7 +153,7 @@ public class BombController : MonoBehaviour
     
     //Sistema de vida del Bomberman
     
-    [SerializeField] private int health = 2;
+   
 
     public void TakeDamage()
 
@@ -158,6 +162,14 @@ public class BombController : MonoBehaviour
         if (health < 0)
         {
             gameObject.SetActive(false); 
+        }
+        else if (health < 1)
+        {
+            
+        }
+        else if (health < 2)
+        {
+            
         }
     }
     

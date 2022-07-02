@@ -7,7 +7,7 @@ using Random = UnityEngine.Random;
 public class EnemyManage : MonoBehaviour
 {
     [SerializeField] private float speed = 1f;
-    [SerializeField] private int _puntaje = 100;
+    [SerializeField] private int _puntaje = 50;
     [SerializeField] private int health = 0;
 
     private Rigidbody2D _enemyRb;
@@ -44,8 +44,6 @@ public class EnemyManage : MonoBehaviour
         
         _turn = Random.Range(0, 4);
         _enemyRb.velocity = speed*_directions[_turn];
-        //throw new NotImplementedException();
-        
     }
 
     public void TakeDamage()
