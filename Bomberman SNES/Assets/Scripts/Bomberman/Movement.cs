@@ -20,6 +20,8 @@ public class Movement : MonoBehaviour
       public AnimatedSprite spriteRendererRight;
       private AnimatedSprite activateSpriteRenderer;
 
+      private GameObject[] players;
+
       private void Start()
       {
           // Load level
@@ -87,6 +89,13 @@ public class Movement : MonoBehaviour
       private void OnLevelWasLoaded(int level)
       {
           FindStartPos();
+
+          players = GameObject.FindGameObjectsWithTag("Player");
+
+          if (players.Length > 1)
+          {
+              Destroy(players[1]);
+          }
       }
 
       void FindStartPos()

@@ -29,7 +29,7 @@ public class BombController : MonoBehaviour
     // Duration time of the explosion
     public float explosionDuration = 1f;
     // Radius of the explosion
-    public int explosionRadius = 1; // POWER UP
+    public int explosionRadius = 2; // POWER UP
 
     [Header("Destructible")] 
     //
