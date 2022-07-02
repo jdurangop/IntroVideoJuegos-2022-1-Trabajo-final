@@ -16,4 +16,9 @@ Tú controlas al pequeño bomberman y tu objetivo es destruir a los malvados ene
 - ![Bomb](./Visuales/ItemExtraBomb.png?raw=True "Bomb") incrementa el número de bombas continuas que puedes plantar.
 - ![Teleport](./Visuales/teleport.png?raw=True "Teleport") te permite subir al siguiente nivel al oprimir la tecla **X**.
 
-Puede descargar el juego [aquí](www.google.com "aquí").
+Puede descargar el juego [aquí](https://github.com/jdurangop/IntroVideoJuegos-2022-1-Trabajo-final/releases).
+
+## Recursos:
+- [FREE INDUSTRIAL ZONE TILESET PIXEL ART](https://craftpix.net/freebies/free-industrial-zone-tileset-pixel-art/)
+- [Bomberman Sprites, adamgraham](https://github.com/zigurous/unity-bomberman-tutorial/tree/main/Sprites)
+- [SNES - Super Bomberman, The sprite resource](https://www.spriters-resource.com/snes/sbomber/?source=genre)
